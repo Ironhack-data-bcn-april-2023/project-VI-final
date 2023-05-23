@@ -54,5 +54,5 @@ presentation.pptx #Only if you decided to create one
 - There's no `.env` file uploaded
 - You don't have any temporary files: .DS_Store, .ipynb_checkpoints, `__pycache__`, etc
 - You have meaningful names in your files
-- Your code is commented (#) and cocumented (docstrings)
+- Your code is commented (#) and documented (docstrings)
 - Commit often! You certainly do not want to lose weeks worth of work. Trust us, it has happene more than you think!
